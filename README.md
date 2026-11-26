@@ -4,8 +4,15 @@
 
 <div align="center">
   <h1>Hello World 👋</h1>
-  
-  
+  <p>Full Stack Developer • Software Engineer</p>
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaperbawa&show_icons=true&bg_color=000000&title_color=18d26e&text_color=ffffff&icon_color=18d26e&border_color=18d26e" alt="GitHub Stats Aditya" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaperbawa&background=000000&ring=18d26e&fire=18d26e&currStreakLabel=18d26e&sideLabels=ffffff&dates=ffffff&border=18d26e" alt="GitHub Streak Aditya" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaperbawa&layout=compact&bg_color=000000&title_color=18d26e&text_color=ffffff&border_color=18d26e" alt="Top Languages Aditya" />
 </div>
 
 ### 🛠️ Skills
@@ -26,7 +33,7 @@
   <!-- Data Analyst & Software Engineering -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br>
   <!-- IT Networking & Infrastructure -->
